@@ -1,0 +1,7 @@
+[dependencies]
+opencv = "0.56.0"
+image = "0.23.14"
+
+[lib]
+crate-type = ["cdylib"]
+
